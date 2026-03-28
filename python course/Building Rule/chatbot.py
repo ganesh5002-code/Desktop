@@ -1,7 +1,7 @@
 import re, random
 
 destinations = {
-"beaches": ["Bali", "Maldieves", "Phuket"],
+"beaches": ["Bali", "Maldives", "Phuket"],
 "mountains": ["Himalayas", "Blue Mountains", "Tibet"],
 "cities": ["Tokyo", "Sydney", "Delhi"]
 }
@@ -57,8 +57,7 @@ def show_help():
     print("Offer some packing tips")
     print("Tell a joke")
     print("Type exit or bye to end")
-
-def chat():
+    
     print("Hello I am a travel bot")
     name = input("What is your name?")
     print(f"Hello {name}, nice to meet you")
@@ -83,4 +82,4 @@ def chat():
             print("travel_bot: could you please rephrase")
     
 if __name__ == "__main__":
-    chat()
+    show_help()

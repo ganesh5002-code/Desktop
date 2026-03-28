@@ -1,0 +1,7 @@
+"Application.ConnectionError.Description.AuthFailed" = "認証できませんでした";
+"Application.ConnectionError.ErrorCode" = "エラーコード: %1$d";
+"Application.ConnectionError.Action.Ok" = "OK";
+"CommonUI.Controls.Action.Cancel" = "キャンセル";
+"CommonUI.Controls.Action.Continue" = "続ける";
+"Feature.TrustedDomains.LeaveApp.Dialog.Title" = "Robloxから退出中";
+"Feature.TrustedDomains.LeaveApp.Dialog.Description" = "「続ける」をクリックすると、Robloxが所有・管理していないウェブサイトに移動します。Robloxとは異なる規約やプライバシーポリシーが適用される場合があります。";

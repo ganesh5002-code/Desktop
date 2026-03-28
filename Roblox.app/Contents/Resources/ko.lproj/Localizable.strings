@@ -1,0 +1,7 @@
+"Application.ConnectionError.Description.AuthFailed" = "인증 중 오류가 발생했습니다. 다시 시도하세요.";
+"Application.ConnectionError.ErrorCode" = "오류 코드: %1$d";
+"Application.ConnectionError.Action.Ok" = "확인";
+"CommonUI.Controls.Action.Cancel" = "취소";
+"CommonUI.Controls.Action.Continue" = "계속";
+"Feature.TrustedDomains.LeaveApp.Dialog.Title" = "Roblox 페이지에서 나갑니다";
+"Feature.TrustedDomains.LeaveApp.Dialog.Description" = "'계속'을 클릭하면 Roblox가 소유하거나 운영하는 웹사이트가 아닌 다른 페이지로 이동하게 됩니다. 해당 웹사이트에서는 다른 개인정보 처리방침이 적용될 수 있습니다.";

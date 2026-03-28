@@ -1,0 +1,7 @@
+"Application.ConnectionError.Description.AuthFailed" = "驗證時發生錯誤，請重新嘗試。";
+"Application.ConnectionError.ErrorCode" = "錯誤碼：%1$d";
+"Application.ConnectionError.Action.Ok" = "確定";
+"CommonUI.Controls.Action.Cancel" = "取消";
+"CommonUI.Controls.Action.Continue" = "繼續";
+"Feature.TrustedDomains.LeaveApp.Dialog.Title" = "即將離開 Roblox";
+"Feature.TrustedDomains.LeaveApp.Dialog.Description" = "按下「繼續」後，系統會將你導向 Roblox 以外的網站，該網站的條款與隱私權政策可能與 Roblox 不同。";

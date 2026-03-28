@@ -1,0 +1,7 @@
+"Application.ConnectionError.Description.AuthFailed" = "Une erreur a été rencontrée lors de l'authentification. Réessayer.";
+"Application.ConnectionError.ErrorCode" = "Code d'erreur : %1$d";
+"Application.ConnectionError.Action.Ok" = "Ok";
+"CommonUI.Controls.Action.Cancel" = "Annuler";
+"CommonUI.Controls.Action.Continue" = "Continuer";
+"Feature.TrustedDomains.LeaveApp.Dialog.Title" = "Quitter Roblox";
+"Feature.TrustedDomains.LeaveApp.Dialog.Description" = "En cliquant sur « Continuer », tu seras redirigé(e) vers un site Web qui n'est pas possédé ou exploité par Roblox. Ses conditions d'utilisation et sa politique de confidentialité peuvent différer.";

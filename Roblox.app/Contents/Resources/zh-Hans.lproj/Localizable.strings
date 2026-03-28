@@ -1,0 +1,8 @@
+"Application.ConnectionError.Description.AuthFailed" = "验证时发生错误。请重试。";
+"Application.ConnectionError.ErrorCode" = "错误代码：%1$d";
+"Application.ConnectionError.Action.Ok" = "好";
+"NSMicrophoneUsageDescription" = "Roblox 需要使用您的麥克風才可啟用語音聊天。"
+"CommonUI.Controls.Action.Cancel" = "取消";
+"CommonUI.Controls.Action.Continue" = "继续";
+"Feature.TrustedDomains.LeaveApp.Dialog.Title" = "正在离开 Roblox";
+"Feature.TrustedDomains.LeaveApp.Dialog.Description" = "单击“继续”，你将被重定向到一个非 Roblox 拥有或运营的网站。该网站可能适用不同的条款和隐私政策。";
